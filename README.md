@@ -1,9 +1,16 @@
 ### Hi there 👋, I'm Dafne.
-I’m a front-end developer based in Mexico with 7 years of experience in the technology industry. I have worked on projects with diferents development environments such as ReactJs and VueJs.  I also have experience in interface design and user experience design. I like working in a team and enjoy learning about different functions and areas of technology as well as things related to team management.
+I am a Senior Frontend Developer with extensive experience in developing web applications, specializing in technologies like VueJS and ReactJS. Throughout my career, I have worked in various sectors including fintech, telecommunications, and cybersecurity, collaborating closely with UI teams to create efficient and functional user interfaces.
 
-- 🌱 I’m currently learning about VueJS 3 and Typescript. As well as leadership and product design.
+I have led the development and migration of frontend platforms, integrating APIs and utilizing modern tools such as NuxtJS, NextJS, and TailwindCSS. My experience includes working with remote, multidisciplinary, and multicultural teams, quickly adapting to different environments and work dynamics.
+
+I am passionate about creating solutions that not only meet technical requirements but also significantly enhance the end-user experience. I am always seeking new opportunities to learn and grow professionally, bringing value to every project I am involved in.
 
 - 👯 I collaborate with technology communities. PHPmx 🐘 and Technolatinas 💜
 
 ### 💻 Some technologies I use:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nextjs,vue,nuxtjs,ts,tailwind,bootstrap,git,docker,figma,)](https://skills.thijs.gg)
+
+- Javascript
+- VueJS 
+- ReactJS
+- NuxtJS
+- NextJS
